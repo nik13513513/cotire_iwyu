@@ -1,7 +1,7 @@
 //#include <QGuiApplication>
 //#include <QQmlApplicationEngine>
 
-//#include <vector>
+#include <vector>
 //#include <math.h>
 
 #include <qguiapplication.h>        // for QGuiApplication
